@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Esther and I'm currently finishing my PhD in Psychology at Concordia University. 
-- 🔭 Check out my interactive [dashboard on infant bilingualism in Canada](https://youngest-bilingual-canadians.herokuapp.com/)
-- 🖼️ I love to talk about data visualization
+- 🔭 Check out my interactive [dashboard on infant bilingualism in Canada](https://youngest-bilingual-canadians.onrender.com/)
+- 🖼️ I love to talk about data analyses & visualization
 - 👩‍🔬 I'm passionate about improving research practices, especially for hard-to-recruit populations
 - 📰 find my papers [here](https://scholar.google.ca/citations?user=4CqfLk4AAAAJ&hl=en)
 
