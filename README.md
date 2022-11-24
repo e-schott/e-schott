@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Esther and I'm currently finishing my PhD in Psychology at Concordia University. 
+I'm Esther, I finished my PhD in 2022, and I'm a senior researcher looking for new opportunities to apply my research skills. 
 - 🔭 Check out my interactive [dashboard on infant bilingualism in Canada](https://youngest-bilingual-canadians.onrender.com/)
 - 🖼️ I love to talk about data analyses & visualization
 - 👩‍🔬 I'm passionate about improving research practices, especially for hard-to-recruit populations
