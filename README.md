@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Esther, I finished my PhD in 2022, and I'm a senior researcher looking for new opportunities to apply my research skills. 
+I'm a senior research scientist who enjoys coding and analyzing data.
 - 🔭 Check out my interactive [dashboard on infant bilingualism in Canada](https://youngest-bilingual-canadians.onrender.com/)
 - 🖼️ I love to talk about data analyses & visualization
-- 👩‍🔬 I'm passionate about improving research practices, especially for hard-to-recruit populations
+- 👩‍🔬 I'm passionate about improving research practices, especially for hard-to-recruit populations, and [conducted simulations to derive best practices](https://e-schott.github.io/code/SolutionsForTransparentDataPeeking-resub.html)
 - 📰 find my papers [here](https://scholar.google.ca/citations?user=4CqfLk4AAAAJ&hl=en)
 
 You can also find me:
